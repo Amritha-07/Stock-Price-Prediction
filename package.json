@@ -1,0 +1,9 @@
+flask==1.0.2
+pip == 20.1.1
+pickle5
+scikit-learn == 1.0.2
+numpy == 1.21.6
+statistics == 1.0.3.5
+statsmodels
+plotly
+jsonschema
