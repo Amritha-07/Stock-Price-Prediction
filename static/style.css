@@ -1,0 +1,20 @@
+.for {
+	margin: auto;
+	border: 1px solid;
+	border-radius: 5%;
+	width: 30%;
+	text-align: center;
+	padding: 10px;
+	margin-top: 5%;
+}
+
+form {
+	margin: auto;
+	padding: 20px;
+	width: 65%;
+}
+
+.card {
+	margin: auto;
+	margin-top: 2%;
+}
