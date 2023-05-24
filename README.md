@@ -9,7 +9,7 @@ Developed a stock price prediction model using both LSTM and ARIMA
 
 ## Apple Stock Price using ARIMA
 
-![image](https://github.com/Amritha-07/Stock-Price-Prediction/assets/74042644/424ab710-e8a2-4acd-b770-3abc3ea9f08d)
+![image](https://github.com/Amritha-07/Stock-Price-Prediction/assets/74042644/1eca6200-d3ee-44bd-99fa-bd4b56e6257b)
 - r2 score - 0.9927662766722549
 
 ## cac40 Stock Price using LSTM
@@ -19,5 +19,5 @@ Developed a stock price prediction model using both LSTM and ARIMA
 
 ## cac40 Stock Price using ARIMA
 
-![image](https://github.com/Amritha-07/Stock-Price-Prediction/assets/74042644/859a31e6-337c-42e7-866a-80293e4225b3)
+![image](https://github.com/Amritha-07/Stock-Price-Prediction/assets/74042644/b9163961-8bc5-40d9-ae1e-3c7a146a4df4)
 - r2 score - 0.9832169215456074
