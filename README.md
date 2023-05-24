@@ -2,6 +2,8 @@
 
 Developed a stock price prediction model using both LSTM and ARIMA
 
+Here's a live deployment - https://stock-price-prediction-qi60.onrender.com/
+
 ## Apple Stock Price using LSTM
 
 ![image](https://github.com/Amritha-07/Stock-Price-Prediction/assets/74042644/df40a53e-07a2-409d-b539-c18a5fc42b14)
