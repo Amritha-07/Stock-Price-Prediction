@@ -22,6 +22,16 @@ Developed a stock price prediction model using both LSTM and ARIMA
 ![image](https://github.com/Amritha-07/Stock-Price-Prediction/assets/74042644/b9163961-8bc5-40d9-ae1e-3c7a146a4df4)
 - r2 score - 0.9832169215456074
 
+## Tech-Stack
+
+- Python
+- Flask
+- HTML
+- CSS
+
 ## Deployment
 
 Here's a live deployment - https://stock-price-prediction-qi60.onrender.com/
+
+![image](https://github.com/Amritha-07/Stock-Price-Prediction/assets/74042644/cfb7d2d4-39ea-4913-a560-41a743613f60)
+
