@@ -2,25 +2,12 @@
 
 Developed a stock price prediction model using both LSTM and ARIMA
 
-## Apple Stock Price using LSTM
 
-![image](https://github.com/Amritha-07/Stock-Price-Prediction/assets/74042644/df40a53e-07a2-409d-b539-c18a5fc42b14)
-- r2 score - 0.9694473043459817
+Here's a live deployment - https://stock-price-prediction-qi60.onrender.com/
 
-## Apple Stock Price using ARIMA
-
-![image](https://github.com/Amritha-07/Stock-Price-Prediction/assets/74042644/1eca6200-d3ee-44bd-99fa-bd4b56e6257b)
-- r2 score - 0.9927662766722549
-
-## cac40 Stock Price using LSTM
-
-![image](https://github.com/Amritha-07/Stock-Price-Prediction/assets/74042644/9f58dc50-c8a1-4fd8-8fca-5e5ec5370b8a)
-- r2 score - 0.9347546260005587
-
-## cac40 Stock Price using ARIMA
-
-![image](https://github.com/Amritha-07/Stock-Price-Prediction/assets/74042644/b9163961-8bc5-40d9-ae1e-3c7a146a4df4)
-- r2 score - 0.9832169215456074
+<center>
+    <img src='img/snap_1.png' alt='image' width='90%' name='snap_1'/>
+</center>
 
 ## Tech-Stack
 
@@ -29,9 +16,41 @@ Developed a stock price prediction model using both LSTM and ARIMA
 - HTML
 - CSS
 
-## Deployment
+## Installation and Usage
 
-Here's a live deployment - https://stock-price-prediction-qi60.onrender.com/
+To install and run this project, you need to have Python 3 installed on your computer. You also need to install and import the following Python libraries:
 
-![image](https://github.com/Amritha-07/Stock-Price-Prediction/assets/74042644/cfb7d2d4-39ea-4913-a560-41a743613f60)
+- flask
+- render_template
+- request
+- numpy
+- pandas
+- sklearn
+- seaborn
+- prophet
+- statsmodels
 
+You can use any IDE or editor of your choice.
+
+To download the code and data files for this project, you can clone this GitHub repository using the following command:
+
+https://github.com/Amritha-07/Stock-Price-Prediction.git
+
+To execute the code, you can run the following command:
+
+python app.py
+
+or
+
+python app.py
+
+You will see the output of the web application on your console or terminal.
+
+To access the web application from your web browser, you can enter the URL of your local host followed by the port number (such as http://127.0.0.1:5000/).
+
+## References
+
+This project dataset was from the following sources:
+
+- [Apple Stock Price from 1980-2021](https://www.kaggle.com/datasets/meetnagadia/apple-stock-price-from-19802021) from kagge
+- [CAC40 Stocks Dataset 📈](https://www.kaggle.com/datasets/bryanb/cac40-stocks-dataset/code) from kaggle
